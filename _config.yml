@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 title                    : "test second blog"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "test blog start"
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "지금은 학습중."
 url                      :"https://Jin-Oh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
